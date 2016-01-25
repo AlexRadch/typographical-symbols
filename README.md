@@ -1,0 +1,2 @@
+# typographical-symbols
+Typographical symbols
